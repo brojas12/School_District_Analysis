@@ -16,11 +16,11 @@ __How is the district summary affected?__
     
 *Module Analysis*
     
-![](Resources/Resources/District_Sum_1.JPG)
+![](Resources/District_Sum_1.JPG)
     
 *Challenge Analysis*
     
-![](Resources/Resources/District_Sum_2.JPG)
+![](Resources/District_Sum_2.JPG)
 
 __How is the school summary affected?__
 
@@ -34,11 +34,11 @@ __How is the school summary affected?__
     
 *Module Analysis*
     
-![](Resources/Resources/School_Sum_Affected_1.JPG)
+![](Resources/School_Sum_Affected_1.JPG)
     
 *Challenge Analysis*
     
-![](Resources/Resources/School_Sum_Affected_2.JPG)
+![](Resources/School_Sum_Affected_2.JPG)
 
 __How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?__
 
@@ -48,13 +48,12 @@ __How does replacing the ninth graders’ math and reading scores affect Thomas 
     
 *Module Analysis*
     
-![](Resources/Resources/Original_Data_Set.JPG)
+![](Resources/Original_Data_Set.JPG)
     
 *Challenge Analysis*
     
-![](Resources/Resources/Modified_Data_Set.JPG)
+![](Resources/Modified_Data_Set.JPG)
     
-*Module Analysis*
     
 __How does replacing the ninth-grade scores affect the following:__
 
@@ -67,11 +66,11 @@ __How does replacing the ninth-grade scores affect the following:__
 
 *Module Analysis*
     
-![](Resources/Resources/School_Avg_1.JPG)
+![](Resources/School_Avg_1.JPG)
     
 *Challenge Analysis*
     
-![](Resources/Resources/School_Avg_2.JPG)
+![](Resources/School_Avg_2.JPG)
     
 __2. Scores by school spending__
     
@@ -80,11 +79,11 @@ __2. Scores by school spending__
  
 *Module Analysis*
     
-![](Resources/Resources/School_Budget_1.JPG)
+![](Resources/School_Budget_1.JPG)
     
 *Challenge Analysis*
     
-![](Resources/Resources/School_Budget_2.JPG)
+![](Resources/School_Budget_2.JPG)
 
     
 __3. Scores by school size__
@@ -94,11 +93,11 @@ __3. Scores by school size__
 
 *Module Analysis*
 
-![](Resources/Resources/School_Size_1.JPG)
+![](Resources/School_Size_1.JPG)
     
 *Challenge Analysis*
     
-![](Resources/Resources/School_Size_2.JPG)
+![](Resources/School_Size_2.JPG)
     
 __4. Scores by school type__
     
@@ -106,11 +105,11 @@ __4. Scores by school type__
 
 *Module Analysis*
 
-![](Resources/Resources/School_Type_1.JPG)
+![](Resources/School_Type_1.JPG)
     
 *Challenge Analysis*
     
-![](Resources/Resources/School_Type_2.JPG)
+![](Resources/School_Type_2.JPG)
 
 
 # District Analysis Summary
