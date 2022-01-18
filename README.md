@@ -29,7 +29,6 @@ __How is the school summary affected?__
     the testing data of 461 9th graders at Thomas High School the overall passing average dropped significantly down to 65%
     
     as shown in the images down below.
-    Module Analysis
     
     
 *Module Analysis*
@@ -44,7 +43,6 @@ __How does replacing the ninth graders’ math and reading scores affect Thomas 
 
     In the original analysis conducted in the module Thomas High School ranked 2nd to Cabera High School, but after adjusting 
     the data set Thomas High School dropped down 8th in rankings. 
-    Module Analysis
     
 *Module Analysis*
     
@@ -74,7 +72,7 @@ __How does replacing the ninth-grade scores affect the following:__
     
 __2. Scores by school spending__
     
-    As shown by the two images down below, replacing the ninth-grade scores did not affect the school’s spending in any way.
+    As shown by the two images down below, replacing the ninth-grade scores did not affect the school’s spending in a drastic way.
     
  
 *Module Analysis*
@@ -88,8 +86,8 @@ __2. Scores by school spending__
     
 __3. Scores by school size__
     
-    As shown by the two images down below, replacing the ninth-grade scores did not affect the school’s overall passing 
-    percentage in any way.
+    As shown by the two images down below, replacing the ninth-grade scores affected the school’s overall passing 
+    percentage only slightly.
 
 *Module Analysis*
 
@@ -101,7 +99,7 @@ __3. Scores by school size__
     
 __4. Scores by school type__
     
-    The scores by school type remain unaffected. 
+    The scores by school type remain largely unaffected, with few minute changes. Most of the data altered would not be seen unless the decimals were added.  
 
 *Module Analysis*
 
